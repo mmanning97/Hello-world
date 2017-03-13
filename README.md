@@ -2,5 +2,5 @@
 First repository
 
 
-Hello there.  Mike name is Mike.
+Hello there.  My name is Mike.
 
